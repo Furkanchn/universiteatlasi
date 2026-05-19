@@ -138,7 +138,7 @@ export function ChatWidget() {
           <header className="bg-gradient-to-r from-indigo-600 via-fuchsia-500 to-emerald-500 px-4 py-4 text-white">
             <div className="flex items-center justify-between gap-3">
               <div>
-                <h2 className="text-sm font-black">Atlas Asistanı</h2>
+                <h2 className="text-sm font-black">Kampus Asistanı</h2>
                 <p className="text-xs font-semibold text-white/80">Tercih rehberi ve site destek botu</p>
               </div>
               <button
@@ -250,7 +250,7 @@ export function ChatWidget() {
         onClick={() => setOpen((value) => !value)}
         className="relative rounded-2xl bg-slate-950 px-4 py-3 text-sm font-black text-white shadow-[0_18px_50px_rgba(15,23,42,0.24)] transition hover:-translate-y-0.5 hover:bg-indigo-700"
       >
-        Atlas Asistanı
+        Kampus Asistanı
         {unread ? <span className="absolute -right-1 -top-1 h-3.5 w-3.5 rounded-full border-2 border-white bg-emerald-400" /> : null}
       </button>
     </div>

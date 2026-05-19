@@ -53,7 +53,7 @@ export default function Anasayfa() {
               Üniversite ve programları daha hızlı keşfet.
             </h1>
             <p className="mt-4 max-w-2xl text-sm font-semibold leading-6 text-slate-300">
-              2025 kılavuz verileriyle programları filtrele, üniversiteleri karşılaştır, netlerinden tahmini puanını gör ve Atlas Asistanı ile doğru sayfaya hızlıca ilerle.
+              2025 kılavuz verileriyle programları filtrele, üniversiteleri karşılaştır, netlerinden tahmini puanını gör ve Kampus Asistanı ile doğru sayfaya hızlıca ilerle.
             </p>
 
             <div className="mt-6 grid gap-3 md:grid-cols-3">

@@ -1,5 +1,6 @@
 import { NavLink, Outlet, useNavigate } from "react-router-dom";
 import { useAuthStore } from "../../store/filter.store";
+import kampusDataLogo from "../../assets/kampus-data-logo.jpg";
 import { ChatWidget } from "../ui/ChatWidget";
 
 const navLinks = [
@@ -21,7 +22,7 @@ export function Layout() {
       <header className="sticky top-0 z-40 border-b border-white/70 bg-white/86 shadow-sm backdrop-blur-xl">
         <div className="border-b border-slate-100 bg-slate-950 text-white">
           <div className="mx-auto flex max-w-[1240px] items-center justify-between gap-4 px-4 py-2 text-xs font-black sm:px-6">
-            <span>Yükseköğretim Program Atlası</span>
+            <span>Kampus Data</span>
             <span className="hidden text-emerald-200 sm:inline">2025 kılavuz verileri ve tercih karar desteği</span>
           </div>
         </div>
@@ -29,11 +30,13 @@ export function Layout() {
         <div className="mx-auto max-w-[1240px] px-4 sm:px-6">
           <div className="flex min-h-20 flex-wrap items-center justify-between gap-4 py-3">
             <NavLink to="/" className="flex shrink-0 items-center gap-3">
-              <span className="grid h-12 w-12 place-items-center rounded-2xl bg-gradient-to-br from-indigo-600 via-fuchsia-500 to-emerald-400 text-lg font-black text-white shadow-md">
-                YA
-              </span>
+              <img
+                src={kampusDataLogo}
+                alt="Kampus Data"
+                className="h-12 w-24 rounded-2xl bg-white object-contain shadow-md ring-1 ring-slate-200"
+              />
               <span>
-                <span className="block text-xl font-black text-slate-950">YÖK Atlası</span>
+                <span className="block text-xl font-black text-slate-950">Kampus Data</span>
                 <span className="block text-xs font-bold uppercase text-slate-500">Üniversite ve program keşfi</span>
               </span>
             </NavLink>
@@ -96,7 +99,7 @@ export function Layout() {
 
       <footer className="mt-10 border-t border-white/70 bg-white/78 backdrop-blur">
         <div className="mx-auto flex max-w-[1240px] flex-col gap-2 px-4 py-5 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between sm:px-6">
-          <span className="font-black text-slate-800">YÖK Atlası</span>
+          <span className="font-black text-slate-800">Kampus Data</span>
           <span>Veriler bilgilendirme amaçlıdır; resmi tercih kararlarında ÖSYM ve YÖK kaynakları esas alınmalıdır.</span>
         </div>
       </footer>
