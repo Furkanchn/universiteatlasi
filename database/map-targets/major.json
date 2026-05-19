@@ -1,0 +1,82 @@
+[
+  {
+    "id": 122571,
+    "dbName": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "ODTÜ Ana Kampüs",
+    "nominatimQuery": "Orta Doğu Teknik Üniversitesi, Ankara, Turkey",
+    "fallback": { "lat": 39.8919, "lng": 32.7847 },
+    "radiusMeters": 3000
+  },
+  {
+    "id": 115069,
+    "dbName": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+    "campusName": "İTÜ Ayazağa Kampüsü",
+    "nominatimQuery": "İstanbul Teknik Üniversitesi Ayazağa Kampüsü, Istanbul, Turkey",
+    "fallback": { "lat": 41.1057, "lng": 29.0253 },
+    "radiusMeters": 2600
+  },
+  {
+    "id": 102738,
+    "dbName": "ANKARA ÜNİVERSİTESİ",
+    "campusName": "Ankara Üniversitesi Tandoğan Yerleşkesi",
+    "nominatimQuery": "Ankara Üniversitesi Tandoğan Yerleşkesi, Ankara, Turkey",
+    "fallback": { "lat": 39.9307, "lng": 32.8319 },
+    "radiusMeters": 2200
+  },
+  {
+    "id": 115373,
+    "dbName": "İSTANBUL ÜNİVERSİTESİ",
+    "campusName": "İstanbul Üniversitesi Beyazıt Kampüsü",
+    "nominatimQuery": "İstanbul Üniversitesi Beyazıt Kampüsü, Istanbul, Turkey",
+    "fallback": { "lat": 41.0128, "lng": 28.9637 },
+    "radiusMeters": 2000
+  },
+  {
+    "id": 105118,
+    "dbName": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "Bilkent Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "Bilkent University, Ankara, Turkey",
+    "fallback": { "lat": 39.8682, "lng": 32.7487 },
+    "radiusMeters": 2800
+  },
+  {
+    "id": 105322,
+    "dbName": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "Boğaziçi Üniversitesi Güney Kampüs",
+    "nominatimQuery": "Boğaziçi Üniversitesi Güney Kampüs, Istanbul, Turkey",
+    "fallback": { "lat": 41.0839, "lng": 29.0523 },
+    "radiusMeters": 1800
+  },
+  {
+    "id": 126982,
+    "dbName": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "Yıldız Teknik Üniversitesi Davutpaşa Kampüsü",
+    "nominatimQuery": "Yıldız Teknik Üniversitesi Davutpaşa Kampüsü, Istanbul, Turkey",
+    "fallback": { "lat": 41.0257, "lng": 28.889 },
+    "radiusMeters": 2400
+  },
+  {
+    "id": 113082,
+    "dbName": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "Hacettepe Üniversitesi Beytepe Kampüsü",
+    "nominatimQuery": "Hacettepe Üniversitesi Beytepe Kampüsü, Ankara, Turkey",
+    "fallback": { "lat": 39.8675, "lng": 32.7344 },
+    "radiusMeters": 3000
+  },
+  {
+    "id": 133520,
+    "dbName": "GAZİ ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "Gazi Üniversitesi Beşevler Kampüsü",
+    "nominatimQuery": "Gazi Üniversitesi Beşevler Kampüsü, Ankara, Turkey",
+    "fallback": { "lat": 39.9362, "lng": 32.8225 },
+    "radiusMeters": 2200
+  },
+  {
+    "id": 119094,
+    "dbName": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "Marmara Üniversitesi Göztepe Kampüsü",
+    "nominatimQuery": "Marmara Üniversitesi Göztepe Kampüsü, Istanbul, Turkey",
+    "fallback": { "lat": 40.9842, "lng": 29.0536 },
+    "radiusMeters": 2200
+  }
+]

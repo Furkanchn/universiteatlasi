@@ -1,0 +1,1610 @@
+[
+  {
+    "id": 173499,
+    "dbName": "ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)",
+    "campusName": "ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)",
+    "city": "KAYSERİ",
+    "nominatimQuery": "ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ), KAYSERİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 326654,
+    "dbName": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 385368,
+    "dbName": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "campusName": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "ADANA",
+    "nominatimQuery": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ, ADANA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 100259,
+    "dbName": "ADIYAMAN ÜNİVERSİTESİ",
+    "campusName": "ADIYAMAN ÜNİVERSİTESİ",
+    "city": "ADIYAMAN",
+    "nominatimQuery": "ADIYAMAN ÜNİVERSİTESİ, ADIYAMAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339999,
+    "dbName": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "campusName": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "city": "AFYONKARAHİSAR",
+    "nominatimQuery": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ, AFYONKARAHİSAR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 100869,
+    "dbName": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+    "campusName": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+    "city": "AFYONKARAHİSAR",
+    "nominatimQuery": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR), AFYONKARAHİSAR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 101313,
+    "dbName": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+    "campusName": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+    "city": "AĞRI",
+    "nominatimQuery": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ, AĞRI, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 101458,
+    "dbName": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+    "campusName": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+    "city": "ANTALYA",
+    "nominatimQuery": "AKDENİZ ÜNİVERSİTESİ (ANTALYA), ANTALYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 102005,
+    "dbName": "AKSARAY ÜNİVERSİTESİ",
+    "campusName": "AKSARAY ÜNİVERSİTESİ",
+    "city": "AKSARAY",
+    "nominatimQuery": "AKSARAY ÜNİVERSİTESİ, AKSARAY, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 274883,
+    "dbName": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
+    "campusName": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
+    "city": "ANTALYA",
+    "nominatimQuery": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA), ANTALYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 447835,
+    "dbName": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+    "campusName": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+    "city": "ANTALYA",
+    "nominatimQuery": "ALANYA ÜNİVERSİTESİ (ANTALYA), ANTALYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 326019,
+    "dbName": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 102198,
+    "dbName": "AMASYA ÜNİVERSİTESİ",
+    "campusName": "AMASYA ÜNİVERSİTESİ",
+    "city": "AMASYA",
+    "nominatimQuery": "AMASYA ÜNİVERSİTESİ, AMASYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 102261,
+    "dbName": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+    "campusName": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+    "city": "ESKİŞEHİR",
+    "nominatimQuery": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR), ESKİŞEHİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 411762,
+    "dbName": "ANKARA BİLİM ÜNİVERSİTESİ",
+    "campusName": "ANKARA BİLİM ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA BİLİM ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339985,
+    "dbName": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+    "campusName": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 340001,
+    "dbName": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+    "campusName": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA MEDİPOL ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 324993,
+    "dbName": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+    "campusName": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 232846,
+    "dbName": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+    "campusName": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 102738,
+    "dbName": "ANKARA ÜNİVERSİTESİ",
+    "campusName": "ANKARA ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 311737,
+    "dbName": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+    "campusName": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+    "city": "ANKARA",
+    "nominatimQuery": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ, ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 447662,
+    "dbName": "ANTALYA BELEK ÜNİVERSİTESİ",
+    "campusName": "ANTALYA BELEK ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "nominatimQuery": "ANTALYA BELEK ÜNİVERSİTESİ, ANTALYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 327022,
+    "dbName": "ANTALYA BİLİM ÜNİVERSİTESİ",
+    "campusName": "ANTALYA BİLİM ÜNİVERSİTESİ",
+    "city": "ANTALYA",
+    "nominatimQuery": "ANTALYA BİLİM ÜNİVERSİTESİ, ANTALYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 103400,
+    "dbName": "ARDAHAN ÜNİVERSİTESİ",
+    "campusName": "ARDAHAN ÜNİVERSİTESİ",
+    "city": "ARDAHAN",
+    "nominatimQuery": "ARDAHAN ÜNİVERSİTESİ, ARDAHAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 103443,
+    "dbName": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+    "campusName": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+    "city": "ARTVİN",
+    "nominatimQuery": "ARTVİN ÇORUH ÜNİVERSİTESİ, ARTVİN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 103545,
+    "dbName": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+    "campusName": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+    "city": "ERZURUM",
+    "nominatimQuery": "ATATÜRK ÜNİVERSİTESİ (ERZURUM), ERZURUM, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104090,
+    "dbName": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "ATILIM ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 205351,
+    "dbName": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+    "campusName": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+    "city": "TRABZON",
+    "nominatimQuery": "AVRASYA ÜNİVERSİTESİ (TRABZON), TRABZON, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 364158,
+    "dbName": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+    "campusName": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+    "city": "AYDIN",
+    "nominatimQuery": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ, AYDIN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104140,
+    "dbName": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104213,
+    "dbName": "BALIKESİR ÜNİVERSİTESİ",
+    "campusName": "BALIKESİR ÜNİVERSİTESİ",
+    "city": "BALIKESİR",
+    "nominatimQuery": "BALIKESİR ÜNİVERSİTESİ, BALIKESİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 274881,
+    "dbName": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+    "campusName": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+    "city": "BALIKESİR",
+    "nominatimQuery": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR), BALIKESİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104578,
+    "dbName": "BARTIN ÜNİVERSİTESİ",
+    "campusName": "BARTIN ÜNİVERSİTESİ",
+    "city": "BARTIN",
+    "nominatimQuery": "BARTIN ÜNİVERSİTESİ, BARTIN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104628,
+    "dbName": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "BAŞKENT ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104803,
+    "dbName": "BATMAN ÜNİVERSİTESİ",
+    "campusName": "BATMAN ÜNİVERSİTESİ",
+    "city": "BATMAN",
+    "nominatimQuery": "BATMAN ÜNİVERSİTESİ, BATMAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 104922,
+    "dbName": "BAYBURT ÜNİVERSİTESİ",
+    "campusName": "BAYBURT ÜNİVERSİTESİ",
+    "city": "BAYBURT",
+    "nominatimQuery": "BAYBURT ÜNİVERSİTESİ, BAYBURT, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 306383,
+    "dbName": "BEYKOZ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "BEYKOZ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "BEYKOZ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163894,
+    "dbName": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 105024,
+    "dbName": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+    "campusName": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+    "city": "BİLECİK",
+    "nominatimQuery": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ, BİLECİK, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 105196,
+    "dbName": "BİNGÖL ÜNİVERSİTESİ",
+    "campusName": "BİNGÖL ÜNİVERSİTESİ",
+    "city": "BİNGÖL",
+    "nominatimQuery": "BİNGÖL ÜNİVERSİTESİ, BİNGÖL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 251241,
+    "dbName": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 105248,
+    "dbName": "BİTLİS EREN ÜNİVERSİTESİ",
+    "campusName": "BİTLİS EREN ÜNİVERSİTESİ",
+    "city": "BİTLİS",
+    "nominatimQuery": "BİTLİS EREN ÜNİVERSİTESİ, BİTLİS, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 105322,
+    "dbName": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 341799,
+    "dbName": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+    "campusName": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+    "city": "BOLU",
+    "nominatimQuery": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ, BOLU, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 355074,
+    "dbName": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+    "campusName": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+    "city": "BURDUR",
+    "nominatimQuery": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ, BURDUR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 173494,
+    "dbName": "BURSA TEKNİK ÜNİVERSİTESİ",
+    "campusName": "BURSA TEKNİK ÜNİVERSİTESİ",
+    "city": "BURSA",
+    "nominatimQuery": "BURSA TEKNİK ÜNİVERSİTESİ, BURSA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 362386,
+    "dbName": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+    "campusName": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+    "city": "BURSA",
+    "nominatimQuery": "BURSA ULUDAĞ ÜNİVERSİTESİ, BURSA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 106499,
+    "dbName": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+    "campusName": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+    "city": "MERSİN",
+    "nominatimQuery": "ÇAĞ ÜNİVERSİTESİ (MERSİN), MERSİN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 106545,
+    "dbName": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+    "campusName": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+    "city": "ÇANAKKALE",
+    "nominatimQuery": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ, ÇANAKKALE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 107012,
+    "dbName": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "ÇANKAYA ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 107056,
+    "dbName": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+    "campusName": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+    "city": "ÇANKIRI",
+    "nominatimQuery": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ, ÇANKIRI, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 107211,
+    "dbName": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+    "campusName": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+    "city": "ADANA",
+    "nominatimQuery": "ÇUKUROVA ÜNİVERSİTESİ (ADANA), ADANA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 384591,
+    "dbName": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 107723,
+    "dbName": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+    "campusName": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+    "city": "DİYARBAKIR",
+    "nominatimQuery": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR), DİYARBAKIR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 108112,
+    "dbName": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 108163,
+    "dbName": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+    "campusName": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+    "city": "İZMİR",
+    "nominatimQuery": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR), İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 109110,
+    "dbName": "DÜZCE ÜNİVERSİTESİ",
+    "campusName": "DÜZCE ÜNİVERSİTESİ",
+    "city": "DÜZCE",
+    "nominatimQuery": "DÜZCE ÜNİVERSİTESİ, DÜZCE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 109290,
+    "dbName": "EGE ÜNİVERSİTESİ (İZMİR)",
+    "campusName": "EGE ÜNİVERSİTESİ (İZMİR)",
+    "city": "İZMİR",
+    "nominatimQuery": "EGE ÜNİVERSİTESİ (İZMİR), İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 109868,
+    "dbName": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+    "campusName": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+    "city": "KAYSERİ",
+    "nominatimQuery": "ERCİYES ÜNİVERSİTESİ (KAYSERİ), KAYSERİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 370189,
+    "dbName": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+    "campusName": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+    "city": "ERZİNCAN",
+    "nominatimQuery": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ, ERZİNCAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 173495,
+    "dbName": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+    "campusName": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+    "city": "ERZURUM",
+    "nominatimQuery": "ERZURUM TEKNİK ÜNİVERSİTESİ, ERZURUM, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 110538,
+    "dbName": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+    "campusName": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+    "city": "ESKİŞEHİR",
+    "nominatimQuery": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ, ESKİŞEHİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339997,
+    "dbName": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+    "campusName": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+    "city": "ESKİŞEHİR",
+    "nominatimQuery": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ, ESKİŞEHİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163897,
+    "dbName": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 310017,
+    "dbName": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 110987,
+    "dbName": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+    "campusName": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+    "city": "ELAZIĞ",
+    "nominatimQuery": "FIRAT ÜNİVERSİTESİ (ELAZIĞ), ELAZIĞ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 111395,
+    "dbName": "GALATASARAY ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "GALATASARAY ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "GALATASARAY ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 384577,
+    "dbName": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "campusName": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "GAZİANTEP",
+    "nominatimQuery": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ, GAZİANTEP, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 112080,
+    "dbName": "GAZİANTEP ÜNİVERSİTESİ",
+    "campusName": "GAZİANTEP ÜNİVERSİTESİ",
+    "city": "GAZİANTEP",
+    "nominatimQuery": "GAZİANTEP ÜNİVERSİTESİ, GAZİANTEP, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 133520,
+    "dbName": "GAZİ ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "GAZİ ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "GAZİ ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 260621,
+    "dbName": "GEBZE TEKNİK ÜNİVERSİTESİ",
+    "campusName": "GEBZE TEKNİK ÜNİVERSİTESİ",
+    "city": "KOCAELİ",
+    "nominatimQuery": "GEBZE TEKNİK ÜNİVERSİTESİ, KOCAELİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 112836,
+    "dbName": "GİRESUN ÜNİVERSİTESİ",
+    "campusName": "GİRESUN ÜNİVERSİTESİ",
+    "city": "GİRESUN",
+    "nominatimQuery": "GİRESUN ÜNİVERSİTESİ, GİRESUN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 113023,
+    "dbName": "GÜMÜŞHANE ÜNİVERSİTESİ",
+    "campusName": "GÜMÜŞHANE ÜNİVERSİTESİ",
+    "city": "GÜMÜŞHANE",
+    "nominatimQuery": "GÜMÜŞHANE ÜNİVERSİTESİ, GÜMÜŞHANE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 113082,
+    "dbName": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "HACETTEPE ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 113681,
+    "dbName": "HAKKARİ ÜNİVERSİTESİ",
+    "campusName": "HAKKARİ ÜNİVERSİTESİ",
+    "city": "HAKKARİ",
+    "nominatimQuery": "HAKKARİ ÜNİVERSİTESİ, HAKKARİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 113699,
+    "dbName": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "HALİÇ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 113746,
+    "dbName": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+    "campusName": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+    "city": "ŞANLIURFA",
+    "nominatimQuery": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA), ŞANLIURFA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 138586,
+    "dbName": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+    "campusName": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+    "city": "GAZİANTEP",
+    "nominatimQuery": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP), GAZİANTEP, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 367208,
+    "dbName": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+    "campusName": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+    "city": "HATAY",
+    "nominatimQuery": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ, HATAY, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114218,
+    "dbName": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+    "campusName": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+    "city": "ÇORUM",
+    "nominatimQuery": "HİTİT ÜNİVERSİTESİ (ÇORUM), ÇORUM, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 274887,
+    "dbName": "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114315,
+    "dbName": "IĞDIR ÜNİVERSİTESİ",
+    "campusName": "IĞDIR ÜNİVERSİTESİ",
+    "city": "IĞDIR",
+    "nominatimQuery": "IĞDIR ÜNİVERSİTESİ, IĞDIR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 105118,
+    "dbName": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114436,
+    "dbName": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+    "campusName": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+    "city": "MALATYA",
+    "nominatimQuery": "İNÖNÜ ÜNİVERSİTESİ (MALATYA), MALATYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114385,
+    "dbName": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "IŞIK ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 274882,
+    "dbName": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+    "campusName": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+    "city": "HATAY",
+    "nominatimQuery": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY), HATAY, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339998,
+    "dbName": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "campusName": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "city": "ISPARTA",
+    "nominatimQuery": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ, ISPARTA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163900,
+    "dbName": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114773,
+    "dbName": "İSTANBUL AREL ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL AREL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL AREL ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339995,
+    "dbName": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL ATLAS ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114827,
+    "dbName": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL AYDIN ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 448766,
+    "dbName": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL BEYKENT ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 114907,
+    "dbName": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL BİLGİ ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 241174,
+    "dbName": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL ESENYURT ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 391144,
+    "dbName": "İSTANBUL GALATA ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL GALATA ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL GALATA ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 315098,
+    "dbName": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL GEDİK ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 130959,
+    "dbName": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL GELİŞİM ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 302687,
+    "dbName": "İSTANBUL KENT ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL KENT ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL KENT ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 115022,
+    "dbName": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 173496,
+    "dbName": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL MEDENİYET ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163888,
+    "dbName": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL MEDİPOL ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 447904,
+    "dbName": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 360777,
+    "dbName": "İSTANBUL OKAN ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL OKAN ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL OKAN ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 274886,
+    "dbName": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL RUMELİ ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163898,
+    "dbName": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 410560,
+    "dbName": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 115069,
+    "dbName": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL TEKNİK ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 115335,
+    "dbName": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL TİCARET ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 440213,
+    "dbName": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL TOPKAPI ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 115373,
+    "dbName": "İSTANBUL ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339984,
+    "dbName": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+    "campusName": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 315415,
+    "dbName": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+    "campusName": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ, İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 274888,
+    "dbName": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 302686,
+    "dbName": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    "campusName": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "nominatimQuery": "İZMİR BAKIRÇAY ÜNİVERSİTESİ, İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 302685,
+    "dbName": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    "campusName": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "nominatimQuery": "İZMİR DEMOKRASİ ÜNİVERSİTESİ, İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 116147,
+    "dbName": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    "campusName": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "nominatimQuery": "İZMİR EKONOMİ ÜNİVERSİTESİ, İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 173498,
+    "dbName": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    "campusName": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "nominatimQuery": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ, İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339996,
+    "dbName": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+    "campusName": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+    "city": "İZMİR",
+    "nominatimQuery": "İZMİR TINAZTEPE ÜNİVERSİTESİ, İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 116207,
+    "dbName": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    "campusName": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+    "city": "İZMİR",
+    "nominatimQuery": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ, İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 116281,
+    "dbName": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 116345,
+    "dbName": "KAFKAS ÜNİVERSİTESİ (KARS)",
+    "campusName": "KAFKAS ÜNİVERSİTESİ (KARS)",
+    "city": "KARS",
+    "nominatimQuery": "KAFKAS ÜNİVERSİTESİ (KARS), KARS, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339994,
+    "dbName": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+    "campusName": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+    "city": "KAHRAMANMARAŞ",
+    "nominatimQuery": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ, KAHRAMANMARAŞ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 116608,
+    "dbName": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+    "campusName": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+    "city": "KAHRAMANMARAŞ",
+    "nominatimQuery": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ, KAHRAMANMARAŞ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 325756,
+    "dbName": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+    "campusName": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+    "city": "NEVŞEHİR",
+    "nominatimQuery": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR), NEVŞEHİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 116950,
+    "dbName": "KARABÜK ÜNİVERSİTESİ",
+    "campusName": "KARABÜK ÜNİVERSİTESİ",
+    "city": "KARABÜK",
+    "nominatimQuery": "KARABÜK ÜNİVERSİTESİ, KARABÜK, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 117127,
+    "dbName": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+    "campusName": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+    "city": "TRABZON",
+    "nominatimQuery": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON), TRABZON, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 117553,
+    "dbName": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+    "campusName": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+    "city": "KARAMAN",
+    "nominatimQuery": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN), KARAMAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 117673,
+    "dbName": "KASTAMONU ÜNİVERSİTESİ",
+    "campusName": "KASTAMONU ÜNİVERSİTESİ",
+    "city": "KASTAMONU",
+    "nominatimQuery": "KASTAMONU ÜNİVERSİTESİ, KASTAMONU, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339993,
+    "dbName": "KAYSERİ ÜNİVERSİTESİ",
+    "campusName": "KAYSERİ ÜNİVERSİTESİ",
+    "city": "KAYSERİ",
+    "nominatimQuery": "KAYSERİ ÜNİVERSİTESİ, KAYSERİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 118186,
+    "dbName": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+    "campusName": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+    "city": "KİLİS",
+    "nominatimQuery": "KİLİS 7 ARALIK ÜNİVERSİTESİ, KİLİS, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 117803,
+    "dbName": "KIRIKKALE ÜNİVERSİTESİ",
+    "campusName": "KIRIKKALE ÜNİVERSİTESİ",
+    "city": "KIRIKKALE",
+    "nominatimQuery": "KIRIKKALE ÜNİVERSİTESİ, KIRIKKALE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 118122,
+    "dbName": "KIRKLARELİ ÜNİVERSİTESİ",
+    "campusName": "KIRKLARELİ ÜNİVERSİTESİ",
+    "city": "KIRKLARELİ",
+    "nominatimQuery": "KIRKLARELİ ÜNİVERSİTESİ, KIRKLARELİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 354265,
+    "dbName": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+    "campusName": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+    "city": "KIRŞEHİR",
+    "nominatimQuery": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ, KIRŞEHİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 411763,
+    "dbName": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "campusName": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "KOCAELİ",
+    "nominatimQuery": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ, KOCAELİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 118239,
+    "dbName": "KOCAELİ ÜNİVERSİTESİ",
+    "campusName": "KOCAELİ ÜNİVERSİTESİ",
+    "city": "KOCAELİ",
+    "nominatimQuery": "KOCAELİ ÜNİVERSİTESİ, KOCAELİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 118853,
+    "dbName": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "KOÇ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 241176,
+    "dbName": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+    "campusName": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "nominatimQuery": "KONYA GIDA VE TARIM ÜNİVERSİTESİ, KONYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339979,
+    "dbName": "KONYA TEKNİK ÜNİVERSİTESİ",
+    "campusName": "KONYA TEKNİK ÜNİVERSİTESİ",
+    "city": "KONYA",
+    "nominatimQuery": "KONYA TEKNİK ÜNİVERSİTESİ, KONYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 166433,
+    "dbName": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+    "campusName": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+    "city": "KONYA",
+    "nominatimQuery": "KTO KARATAY ÜNİVERSİTESİ (KONYA), KONYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 351149,
+    "dbName": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+    "campusName": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+    "city": "KÜTAHYA",
+    "nominatimQuery": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ, KÜTAHYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339982,
+    "dbName": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "campusName": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+    "city": "KÜTAHYA",
+    "nominatimQuery": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ, KÜTAHYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 332474,
+    "dbName": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339983,
+    "dbName": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+    "campusName": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+    "city": "MALATYA",
+    "nominatimQuery": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ, MALATYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 118883,
+    "dbName": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "MALTEPE ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 315839,
+    "dbName": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+    "campusName": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+    "city": "MANİSA",
+    "nominatimQuery": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ, MANİSA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 118994,
+    "dbName": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+    "campusName": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+    "city": "MARDİN",
+    "nominatimQuery": "MARDİN ARTUKLU ÜNİVERSİTESİ, MARDİN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 119094,
+    "dbName": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "MARMARA ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 215913,
+    "dbName": "MEF ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "MEF ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "MEF ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 119917,
+    "dbName": "MERSİN ÜNİVERSİTESİ",
+    "campusName": "MERSİN ÜNİVERSİTESİ",
+    "city": "MERSİN",
+    "nominatimQuery": "MERSİN ÜNİVERSİTESİ, MERSİN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 120301,
+    "dbName": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 442563,
+    "dbName": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+    "campusName": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+    "city": "BURSA",
+    "nominatimQuery": "MUDANYA ÜNİVERSİTESİ (BURSA), BURSA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 120444,
+    "dbName": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+    "campusName": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+    "city": "MUĞLA",
+    "nominatimQuery": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ, MUĞLA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 307919,
+    "dbName": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+    "campusName": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+    "city": "TUNCELİ",
+    "nominatimQuery": "MUNZUR ÜNİVERSİTESİ (TUNCELİ), TUNCELİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 121164,
+    "dbName": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+    "campusName": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+    "city": "MUŞ",
+    "nominatimQuery": "MUŞ ALPARSLAN ÜNİVERSİTESİ, MUŞ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 173500,
+    "dbName": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+    "campusName": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+    "city": "KONYA",
+    "nominatimQuery": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA), KONYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 246224,
+    "dbName": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+    "campusName": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+    "city": "NEVŞEHİR",
+    "nominatimQuery": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ, NEVŞEHİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 306556,
+    "dbName": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+    "campusName": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+    "city": "NİĞDE",
+    "nominatimQuery": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ, NİĞDE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163891,
+    "dbName": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+    "campusName": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+    "city": "KAYSERİ",
+    "nominatimQuery": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ), KAYSERİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 121946,
+    "dbName": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+    "campusName": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+    "city": "SAMSUN",
+    "nominatimQuery": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN), SAMSUN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 122395,
+    "dbName": "ORDU ÜNİVERSİTESİ",
+    "campusName": "ORDU ÜNİVERSİTESİ",
+    "city": "ORDU",
+    "nominatimQuery": "ORDU ÜNİVERSİTESİ, ORDU, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 122571,
+    "dbName": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 122735,
+    "dbName": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+    "campusName": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+    "city": "OSMANİYE",
+    "nominatimQuery": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ, OSMANİYE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 324992,
+    "dbName": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 122827,
+    "dbName": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 122831,
+    "dbName": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+    "campusName": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+    "city": "DENİZLİ",
+    "nominatimQuery": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ), DENİZLİ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 136233,
+    "dbName": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 123221,
+    "dbName": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+    "campusName": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+    "city": "RİZE",
+    "nominatimQuery": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE), RİZE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 123400,
+    "dbName": "SABANCI ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "SABANCI ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "SABANCI ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 270121,
+    "dbName": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 123409,
+    "dbName": "SAKARYA ÜNİVERSİTESİ",
+    "campusName": "SAKARYA ÜNİVERSİTESİ",
+    "city": "SAKARYA",
+    "nominatimQuery": "SAKARYA ÜNİVERSİTESİ, SAKARYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339988,
+    "dbName": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "campusName": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+    "city": "SAKARYA",
+    "nominatimQuery": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ, SAKARYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339989,
+    "dbName": "SAMSUN ÜNİVERSİTESİ",
+    "campusName": "SAMSUN ÜNİVERSİTESİ",
+    "city": "SAMSUN",
+    "nominatimQuery": "SAMSUN ÜNİVERSİTESİ, SAMSUN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 241177,
+    "dbName": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
+    "campusName": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
+    "city": "GAZİANTEP",
+    "nominatimQuery": "SANKO ÜNİVERSİTESİ (GAZİANTEP), GAZİANTEP, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 123902,
+    "dbName": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+    "campusName": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+    "city": "KONYA",
+    "nominatimQuery": "SELÇUK ÜNİVERSİTESİ (KONYA), KONYA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 124703,
+    "dbName": "SİİRT ÜNİVERSİTESİ",
+    "campusName": "SİİRT ÜNİVERSİTESİ",
+    "city": "VAN",
+    "nominatimQuery": "SİİRT ÜNİVERSİTESİ, VAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 124805,
+    "dbName": "SİNOP ÜNİVERSİTESİ",
+    "campusName": "SİNOP ÜNİVERSİTESİ",
+    "city": "SİNOP",
+    "nominatimQuery": "SİNOP ÜNİVERSİTESİ, SİNOP, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 125536,
+    "dbName": "ŞIRNAK ÜNİVERSİTESİ",
+    "campusName": "ŞIRNAK ÜNİVERSİTESİ",
+    "city": "ŞIRNAK",
+    "nominatimQuery": "ŞIRNAK ÜNİVERSİTESİ, ŞIRNAK, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339990,
+    "dbName": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "campusName": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+    "city": "SİVAS",
+    "nominatimQuery": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ, SİVAS, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 344737,
+    "dbName": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+    "campusName": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+    "city": "SİVAS",
+    "nominatimQuery": "SİVAS CUMHURİYET ÜNİVERSİTESİ, SİVAS, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 124902,
+    "dbName": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+    "campusName": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+    "city": "ISPARTA",
+    "nominatimQuery": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA), ISPARTA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339991,
+    "dbName": "TARSUS ÜNİVERSİTESİ (MERSİN)",
+    "campusName": "TARSUS ÜNİVERSİTESİ (MERSİN)",
+    "city": "MERSİN",
+    "nominatimQuery": "TARSUS ÜNİVERSİTESİ (MERSİN), MERSİN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163892,
+    "dbName": "TED ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "TED ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "TED ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 356278,
+    "dbName": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+    "campusName": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+    "city": "TEKİRDAĞ",
+    "nominatimQuery": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ, TEKİRDAĞ, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 125552,
+    "dbName": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 367245,
+    "dbName": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+    "campusName": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+    "city": "TOKAT",
+    "nominatimQuery": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ, TOKAT, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 163889,
+    "dbName": "TOROS ÜNİVERSİTESİ (MERSİN)",
+    "campusName": "TOROS ÜNİVERSİTESİ (MERSİN)",
+    "city": "MERSİN",
+    "nominatimQuery": "TOROS ÜNİVERSİTESİ (MERSİN), MERSİN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 339992,
+    "dbName": "TRABZON ÜNİVERSİTESİ",
+    "campusName": "TRABZON ÜNİVERSİTESİ",
+    "city": "TRABZON",
+    "nominatimQuery": "TRABZON ÜNİVERSİTESİ, TRABZON, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 125577,
+    "dbName": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+    "campusName": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+    "city": "EDİRNE",
+    "nominatimQuery": "TRAKYA ÜNİVERSİTESİ (EDİRNE), EDİRNE, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 201784,
+    "dbName": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 203267,
+    "dbName": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 125968,
+    "dbName": "UFUK ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "UFUK ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "UFUK ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 126537,
+    "dbName": "UŞAK ÜNİVERSİTESİ",
+    "campusName": "UŞAK ÜNİVERSİTESİ",
+    "city": "UŞAK",
+    "nominatimQuery": "UŞAK ÜNİVERSİTESİ, UŞAK, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 206795,
+    "dbName": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 337414,
+    "dbName": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+    "campusName": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+    "city": "VAN",
+    "nominatimQuery": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ, VAN, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 126742,
+    "dbName": "YALOVA ÜNİVERSİTESİ",
+    "campusName": "YALOVA ÜNİVERSİTESİ",
+    "city": "YALOVA",
+    "nominatimQuery": "YALOVA ÜNİVERSİTESİ, YALOVA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 126773,
+    "dbName": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+    "campusName": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+    "city": "İZMİR",
+    "nominatimQuery": "YAŞAR ÜNİVERSİTESİ (İZMİR), İZMİR, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 126818,
+    "dbName": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 126982,
+    "dbName": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+    "campusName": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+    "city": "İSTANBUL",
+    "nominatimQuery": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL), İSTANBUL, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 359730,
+    "dbName": "YOZGAT BOZOK ÜNİVERSİTESİ",
+    "campusName": "YOZGAT BOZOK ÜNİVERSİTESİ",
+    "city": "YOZGAT",
+    "nominatimQuery": "YOZGAT BOZOK ÜNİVERSİTESİ, YOZGAT, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 206792,
+    "dbName": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+    "campusName": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+    "city": "ANKARA",
+    "nominatimQuery": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA), ANKARA, Turkiye",
+    "radiusMeters": 2500
+  },
+  {
+    "id": 365890,
+    "dbName": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+    "campusName": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+    "city": "ZONGULDAK",
+    "nominatimQuery": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ, ZONGULDAK, Turkiye",
+    "radiusMeters": 2500
+  }
+]

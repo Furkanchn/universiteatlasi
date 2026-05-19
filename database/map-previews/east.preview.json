@@ -1,0 +1,1115 @@
+[
+  {
+    "id": 103545,
+    "universityName": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+    "campusName": "Atatürk Üniversitesi Ana Kampüs",
+    "lat": 39.901813,
+    "lng": 41.2334327,
+    "radiusMeters": 3000,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/way/500762438",
+    "locationDisplayName": "Atatürk Üniversitesi, D100, Erzurum, Muratpaşa Mahallesi, Erzurum, Yakutiye, Erzurum, Doğu Anadolu Bölgesi, 25700, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Pideci Yücel",
+        "category": "food",
+        "subtype": null,
+        "lat": 39.8851841,
+        "lng": 41.2224208,
+        "distanceMeters": 2074,
+        "externalId": "osm/node/13109390438"
+      },
+      {
+        "name": "Dürümbax",
+        "category": "food",
+        "subtype": null,
+        "lat": 39.8846255,
+        "lng": 41.2439322,
+        "distanceMeters": 2111,
+        "externalId": "osm/node/12985069501"
+      },
+      {
+        "name": "İskende-i Âlâ",
+        "category": "food",
+        "subtype": null,
+        "lat": 39.8844656,
+        "lng": 41.2440261,
+        "distanceMeters": 2130,
+        "externalId": "osm/node/12985069401"
+      },
+      {
+        "name": "Kebapçı Mangal Ömer Usta",
+        "category": "food",
+        "subtype": null,
+        "lat": 39.8888459,
+        "lng": 41.2638889,
+        "distanceMeters": 2972,
+        "externalId": "osm/node/5065812349"
+      },
+      {
+        "name": "Kampüs Kafe",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 39.8983693,
+        "lng": 41.2470434,
+        "distanceMeters": 1223,
+        "externalId": "osm/node/4628208155"
+      },
+      {
+        "name": "Tarçın Cafe",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 39.898226,
+        "lng": 41.2472569,
+        "distanceMeters": 1245,
+        "externalId": "osm/node/4628208156"
+      },
+      {
+        "name": "Bowling Salonu",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 39.8984204,
+        "lng": 41.2492141,
+        "distanceMeters": 1398,
+        "externalId": "osm/way/468328069"
+      },
+      {
+        "name": "EBB Sosyal Tesisler",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 39.9151678,
+        "lng": 41.245242,
+        "distanceMeters": 1794,
+        "externalId": "osm/node/12985196101"
+      },
+      {
+        "name": "Garden Coffee",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 39.8849056,
+        "lng": 41.2444847,
+        "distanceMeters": 2103,
+        "externalId": "osm/node/12983054101"
+      },
+      {
+        "name": "Düzgün Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.9031712,
+        "lng": 41.2524486,
+        "distanceMeters": 1629,
+        "externalId": "osm/node/1399184767"
+      },
+      {
+        "name": "A101",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.8882537,
+        "lng": 41.2408663,
+        "distanceMeters": 1636,
+        "externalId": "osm/node/13061883002"
+      },
+      {
+        "name": "Üniversite Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.9032578,
+        "lng": 41.2530765,
+        "distanceMeters": 1683,
+        "externalId": "osm/node/3627194417"
+      },
+      {
+        "name": "BİM",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.8875706,
+        "lng": 41.2417883,
+        "distanceMeters": 1737,
+        "externalId": "osm/node/13063032652"
+      },
+      {
+        "name": "Türkiye Tarım Kredi Kooperatif Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.8872473,
+        "lng": 41.2413037,
+        "distanceMeters": 1753,
+        "externalId": "osm/node/13063032654"
+      },
+      {
+        "name": "Kütüphane",
+        "category": "library",
+        "subtype": null,
+        "lat": 39.9011876,
+        "lng": 41.2457002,
+        "distanceMeters": 1049,
+        "externalId": "osm/node/1399184773"
+      }
+    ]
+  },
+  {
+    "id": 110987,
+    "universityName": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+    "campusName": "Fırat Üniversitesi Merkez Kampüs",
+    "lat": 38.683783,
+    "lng": 39.1875235,
+    "radiusMeters": 2600,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/way/438269427",
+    "locationDisplayName": "Fırat Üniversitesi, Prof. Dr. Necmettin Erbakan Bulvarı, Safran, Elâzığ Merkez, Elâzığ, Doğu Anadolu Bölgesi, 23119, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Kemal usta waffles",
+        "category": "food",
+        "subtype": null,
+        "lat": 38.6710631,
+        "lng": 39.1853518,
+        "distanceMeters": 1427,
+        "externalId": "osm/node/13503573201"
+      },
+      {
+        "name": "Bonavias",
+        "category": "food",
+        "subtype": null,
+        "lat": 38.67067,
+        "lng": 39.1852946,
+        "distanceMeters": 1471,
+        "externalId": "osm/node/13503561901"
+      },
+      {
+        "name": "Mornia kahvalti",
+        "category": "food",
+        "subtype": null,
+        "lat": 38.6724201,
+        "lng": 39.1774415,
+        "distanceMeters": 1537,
+        "externalId": "osm/node/13483628501"
+      },
+      {
+        "name": "Uğrak gold",
+        "category": "food",
+        "subtype": null,
+        "lat": 38.6682548,
+        "lng": 39.1913751,
+        "distanceMeters": 1759,
+        "externalId": "osm/node/13495173401"
+      },
+      {
+        "name": "Yalçın Et ve Kavurma",
+        "category": "food",
+        "subtype": null,
+        "lat": 38.6672189,
+        "lng": 39.1790906,
+        "distanceMeters": 1982,
+        "externalId": "osm/node/6580231093"
+      },
+      {
+        "name": "Balkon cafe",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.6806285,
+        "lng": 39.1754077,
+        "distanceMeters": 1109,
+        "externalId": "osm/node/4670656879"
+      },
+      {
+        "name": "Novitta Bistro Lounge",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.6670081,
+        "lng": 39.1766375,
+        "distanceMeters": 2091,
+        "externalId": "osm/node/13289920698"
+      },
+      {
+        "name": "Mado",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.6667687,
+        "lng": 39.1769314,
+        "distanceMeters": 2104,
+        "externalId": "osm/node/6580231095"
+      },
+      {
+        "name": "Kahveland",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.6664736,
+        "lng": 39.1769061,
+        "distanceMeters": 2134,
+        "externalId": "osm/node/6580264418"
+      },
+      {
+        "name": "AHMET KABAKLI KYK ÖĞRENCİ YURDU",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 38.6924266,
+        "lng": 39.1711717,
+        "distanceMeters": 1714,
+        "externalId": "osm/node/5923659286"
+      },
+      {
+        "name": "Gazi Teknik Lisi Ve Endüstiri Msl Pansiyonu",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 38.6672312,
+        "lng": 39.1981586,
+        "distanceMeters": 2059,
+        "externalId": "osm/way/701040356"
+      },
+      {
+        "name": "Migros",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.6690432,
+        "lng": 39.185625,
+        "distanceMeters": 1647,
+        "externalId": "osm/node/6580208809"
+      },
+      {
+        "name": "BİM",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.6683952,
+        "lng": 39.1865336,
+        "distanceMeters": 1713,
+        "externalId": "osm/node/4364549537"
+      },
+      {
+        "name": "A101",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.6812521,
+        "lng": 39.2076291,
+        "distanceMeters": 1768,
+        "externalId": "osm/node/4360091095"
+      },
+      {
+        "name": "Nokta",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.6674765,
+        "lng": 39.1793937,
+        "distanceMeters": 1946,
+        "externalId": "osm/node/6580231094"
+      },
+      {
+        "name": "Şok",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.6762008,
+        "lng": 39.2093682,
+        "distanceMeters": 2075,
+        "externalId": "osm/node/4453561992"
+      },
+      {
+        "name": "Hayvan Hastanesi",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.6821073,
+        "lng": 39.192322,
+        "distanceMeters": 456,
+        "externalId": "osm/node/10568406976"
+      },
+      {
+        "name": "Spor Bilimleri Fakültesi",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.6821759,
+        "lng": 39.1931195,
+        "distanceMeters": 518,
+        "externalId": "osm/node/11895621455"
+      },
+      {
+        "name": "Spor Salonu",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.682567,
+        "lng": 39.194316,
+        "distanceMeters": 605,
+        "externalId": "osm/node/10568406977"
+      },
+      {
+        "name": "Eğitim Fakültesi",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.6804425,
+        "lng": 39.1945385,
+        "distanceMeters": 713,
+        "externalId": "osm/node/11895621456"
+      },
+      {
+        "name": "Mimarlık Fakültesi",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.6769753,
+        "lng": 39.1911953,
+        "distanceMeters": 821,
+        "externalId": "osm/node/10568851482"
+      }
+    ]
+  },
+  {
+    "id": 114436,
+    "universityName": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+    "campusName": "İnönü Üniversitesi Merkez Kampüs",
+    "lat": 38.3277902,
+    "lng": 38.4361843,
+    "radiusMeters": 3000,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/relation/19754843",
+    "locationDisplayName": "İnönü Üniversitesi, Kanyon Caddesi, Bulgurlu Mahallesi, Malatya, Battalgazi, Malatya, Doğu Anadolu Bölgesi, 44050, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Çardak Kafe",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.3318215,
+        "lng": 38.4403571,
+        "distanceMeters": 577,
+        "externalId": "osm/way/375777908"
+      },
+      {
+        "name": "Yurt Binası",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 38.3341968,
+        "lng": 38.4314701,
+        "distanceMeters": 823,
+        "externalId": "osm/way/375370979"
+      },
+      {
+        "name": "Esenlik Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.3308439,
+        "lng": 38.4451481,
+        "distanceMeters": 852,
+        "externalId": "osm/way/375603102"
+      },
+      {
+        "name": "Stadyum",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.3364716,
+        "lng": 38.4437909,
+        "distanceMeters": 1171,
+        "externalId": "osm/node/8023323482"
+      },
+      {
+        "name": "Teknopark",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.3387424,
+        "lng": 38.4349314,
+        "distanceMeters": 1223,
+        "externalId": "osm/node/8058987154"
+      },
+      {
+        "name": "Araştırma Hastanesi (Tötm)",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 38.3378622,
+        "lng": 38.4264308,
+        "distanceMeters": 1406,
+        "externalId": "osm/node/5535629220"
+      },
+      {
+        "name": "Kütüphane",
+        "category": "library",
+        "subtype": null,
+        "lat": 38.3332937,
+        "lng": 38.4395061,
+        "distanceMeters": 677,
+        "externalId": "osm/way/375738737"
+      }
+    ]
+  },
+  {
+    "id": 112080,
+    "universityName": "GAZİANTEP ÜNİVERSİTESİ",
+    "campusName": "Gaziantep Üniversitesi Merkez Kampüs",
+    "lat": 37.0341546,
+    "lng": 37.3172044,
+    "radiusMeters": 2600,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/node/8998564990",
+    "locationDisplayName": "Gaziantep Üniversitesi, Üniversite Bulvarı, Güneykent Mahallesi, Gaziantep, Şahinbey, Gaziantep, Güneydoğu Anadolu Bölgesi, 27470, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Efes Döner",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.0344865,
+        "lng": 37.3188754,
+        "distanceMeters": 153,
+        "externalId": "osm/node/5584510824"
+      },
+      {
+        "name": "Burger King",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.0342176,
+        "lng": 37.3193707,
+        "distanceMeters": 192,
+        "externalId": "osm/node/5584520221"
+      },
+      {
+        "name": "Başak Cafe & Restaurant",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.0334377,
+        "lng": 37.3193667,
+        "distanceMeters": 208,
+        "externalId": "osm/node/5584519422"
+      },
+      {
+        "name": "Kral Tantuni (Üniversite)",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.0329896,
+        "lng": 37.3190367,
+        "distanceMeters": 208,
+        "externalId": "osm/node/11041671491"
+      },
+      {
+        "name": "Midyeci Zekeriya",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.033569,
+        "lng": 37.3195652,
+        "distanceMeters": 219,
+        "externalId": "osm/node/5584509826"
+      },
+      {
+        "name": "Kahve Tiryakisi",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.0347095,
+        "lng": 37.3190398,
+        "distanceMeters": 174,
+        "externalId": "osm/node/5584519423"
+      },
+      {
+        "name": "Baniyas Cafe",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.0347348,
+        "lng": 37.3201117,
+        "distanceMeters": 266,
+        "externalId": "osm/node/5584509831"
+      },
+      {
+        "name": "Yemen Kahvesi",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.0336072,
+        "lng": 37.320427,
+        "distanceMeters": 292,
+        "externalId": "osm/node/5584509825"
+      },
+      {
+        "name": "Starbucks",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.0330541,
+        "lng": 37.3204305,
+        "distanceMeters": 311,
+        "externalId": "osm/node/10132344443"
+      },
+      {
+        "name": "Ağaçaltı Cafe Restourant",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.0442512,
+        "lng": 37.3224703,
+        "distanceMeters": 1216,
+        "externalId": "osm/way/653623752"
+      },
+      {
+        "name": "BİM",
+        "category": "market",
+        "subtype": null,
+        "lat": 37.03461,
+        "lng": 37.3185289,
+        "distanceMeters": 128,
+        "externalId": "osm/node/10734237754"
+      },
+      {
+        "name": "A101",
+        "category": "market",
+        "subtype": null,
+        "lat": 37.0339255,
+        "lng": 37.3198127,
+        "distanceMeters": 233,
+        "externalId": "osm/node/12009923133"
+      },
+      {
+        "name": "Damla",
+        "category": "market",
+        "subtype": null,
+        "lat": 37.0337923,
+        "lng": 37.3201197,
+        "distanceMeters": 262,
+        "externalId": "osm/node/5584509827"
+      },
+      {
+        "name": "Winmar",
+        "category": "market",
+        "subtype": null,
+        "lat": 37.0312145,
+        "lng": 37.3239168,
+        "distanceMeters": 680,
+        "externalId": "osm/node/5584510822"
+      },
+      {
+        "name": "Şok",
+        "category": "market",
+        "subtype": null,
+        "lat": 37.0308129,
+        "lng": 37.3236618,
+        "distanceMeters": 683,
+        "externalId": "osm/node/5584519421"
+      },
+      {
+        "name": "Gaziantep Üniversitesi",
+        "category": "transport",
+        "subtype": "tram_stop",
+        "lat": 37.0341546,
+        "lng": 37.3172044,
+        "distanceMeters": 0,
+        "externalId": "osm/node/8998564990"
+      },
+      {
+        "name": "Tıp Fakültesi",
+        "category": "transport",
+        "subtype": "tram_stop",
+        "lat": 37.0407599,
+        "lng": 37.3218954,
+        "distanceMeters": 844,
+        "externalId": "osm/way/1272076005"
+      },
+      {
+        "name": "Burç Kavşağı",
+        "category": "transport",
+        "subtype": "tram_stop",
+        "lat": 37.0273322,
+        "lng": 37.3116769,
+        "distanceMeters": 903,
+        "externalId": "osm/node/10649856792"
+      },
+      {
+        "name": "Güneykent",
+        "category": "transport",
+        "subtype": "tram_stop",
+        "lat": 37.0297807,
+        "lng": 37.3266686,
+        "distanceMeters": 971,
+        "externalId": "osm/node/3474969896"
+      },
+      {
+        "name": "Binevler",
+        "category": "transport",
+        "subtype": "platform",
+        "lat": 37.0481365,
+        "lng": 37.3258687,
+        "distanceMeters": 1735,
+        "externalId": "osm/way/1272079586"
+      },
+      {
+        "name": "GAUN",
+        "category": "library",
+        "subtype": null,
+        "lat": 37.0358579,
+        "lng": 37.3117012,
+        "distanceMeters": 524,
+        "externalId": "osm/way/395442572"
+      }
+    ]
+  },
+  {
+    "id": 337414,
+    "universityName": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+    "campusName": "Van Yüzüncü Yıl Üniversitesi Zeve Kampüsü",
+    "lat": 38.563171,
+    "lng": 43.283852,
+    "radiusMeters": 5000,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "fallback/337414",
+    "locationDisplayName": "Van Yüzüncü Yıl Üniversitesi Zeve Kampüsü",
+    "locationSource": "fallback",
+    "places": []
+  },
+  {
+    "id": 107723,
+    "universityName": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+    "campusName": "Dicle Üniversitesi Merkez Kampüs",
+    "lat": 37.9044835,
+    "lng": 40.2749929,
+    "radiusMeters": 3000,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/relation/2373274",
+    "locationDisplayName": "Dicle Üniversitesi, Fakülte yolu, Fetih Mah., Diyarbakır, Sur, Diyarbakır, Güneydoğu Anadolu Bölgesi, 21280, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Merkezi Yemekhane",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.9163175,
+        "lng": 40.2650905,
+        "distanceMeters": 1577,
+        "externalId": "osm/way/288873517"
+      },
+      {
+        "name": "Vadi Lokantası",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.9215002,
+        "lng": 40.2673141,
+        "distanceMeters": 2009,
+        "externalId": "osm/node/5360588721"
+      },
+      {
+        "name": "Üniversite Et Lokantası",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.921623,
+        "lng": 40.2668792,
+        "distanceMeters": 2034,
+        "externalId": "osm/node/5242358622"
+      },
+      {
+        "name": "Kantin",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.9192462,
+        "lng": 40.2693056,
+        "distanceMeters": 1716,
+        "externalId": "osm/node/5358415923"
+      },
+      {
+        "name": "Tıp Fakültesi kantini",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.9189906,
+        "lng": 40.2671941,
+        "distanceMeters": 1752,
+        "externalId": "osm/node/4592212090"
+      },
+      {
+        "name": "Tea place in nature",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.9113542,
+        "lng": 40.2466374,
+        "distanceMeters": 2602,
+        "externalId": "osm/node/10116416617"
+      },
+      {
+        "name": "Mado",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.9102031,
+        "lng": 40.2422137,
+        "distanceMeters": 2945,
+        "externalId": "osm/node/10701167044"
+      },
+      {
+        "name": "KYK İyaz Bin Ganem Kız Öğrenci Yurdu",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 37.9016835,
+        "lng": 40.2771501,
+        "distanceMeters": 364,
+        "externalId": "osm/way/1210744944"
+      },
+      {
+        "name": "Şok",
+        "category": "market",
+        "subtype": null,
+        "lat": 37.9215905,
+        "lng": 40.2665191,
+        "distanceMeters": 2042,
+        "externalId": "osm/node/5242362822"
+      },
+      {
+        "name": "Otobüs Durağı",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 37.9212077,
+        "lng": 40.2672449,
+        "distanceMeters": 1980,
+        "externalId": "osm/node/4560983976"
+      },
+      {
+        "name": "Minibüs Durağı",
+        "category": "transport",
+        "subtype": "bus_stop",
+        "lat": 37.9214041,
+        "lng": 40.2665826,
+        "distanceMeters": 2021,
+        "externalId": "osm/node/4560983975"
+      },
+      {
+        "name": "Okuma Salonu",
+        "category": "library",
+        "subtype": null,
+        "lat": 37.9175913,
+        "lng": 40.269954,
+        "distanceMeters": 1523,
+        "externalId": "osm/way/241614769"
+      },
+      {
+        "name": "Alî Emîrî Merkez Kütüphanesi",
+        "category": "library",
+        "subtype": null,
+        "lat": 37.9185282,
+        "lng": 40.2776366,
+        "distanceMeters": 1579,
+        "externalId": "osm/way/241614798"
+      }
+    ]
+  },
+  {
+    "id": 113746,
+    "universityName": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+    "campusName": "Harran Üniversitesi Osmanbey Kampüsü",
+    "lat": 37.17208,
+    "lng": 39.00178,
+    "radiusMeters": 5000,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "fallback/113746",
+    "locationDisplayName": "Harran Üniversitesi Osmanbey Kampüsü",
+    "locationSource": "fallback",
+    "places": [
+      {
+        "name": "Fen Edebiyat Yemekhanesi",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.1696347,
+        "lng": 39.0000527,
+        "distanceMeters": 312,
+        "externalId": "osm/way/225248423"
+      },
+      {
+        "name": "Göl Cafe",
+        "category": "food",
+        "subtype": null,
+        "lat": 37.1694496,
+        "lng": 38.9972722,
+        "distanceMeters": 495,
+        "externalId": "osm/way/225251414"
+      },
+      {
+        "name": "Africano Coffee",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 37.1703226,
+        "lng": 38.9948725,
+        "distanceMeters": 642,
+        "externalId": "osm/way/1431699308"
+      },
+      {
+        "name": "El-Battani Kütüphanesi",
+        "category": "library",
+        "subtype": null,
+        "lat": 37.169595,
+        "lng": 38.9960964,
+        "distanceMeters": 574,
+        "externalId": "osm/way/385884603"
+      }
+    ]
+  },
+  {
+    "id": 116345,
+    "universityName": "KAFKAS ÜNİVERSİTESİ (KARS)",
+    "campusName": "Kafkas Üniversitesi Merkez Kampüs",
+    "lat": 40.5809467,
+    "lng": 43.0565672,
+    "radiusMeters": 2800,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/way/347041829",
+    "locationDisplayName": "Kafkas Üniversitesi, Kars - Erzurum Yolu, Kümbetli, Kars Merkez, Kars, Doğu Anadolu Bölgesi, 36100, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Merkezi Yemekhane",
+        "category": "food",
+        "subtype": null,
+        "lat": 40.5802806,
+        "lng": 43.0662877,
+        "distanceMeters": 824,
+        "externalId": "osm/way/640215936"
+      },
+      {
+        "name": "Özel Yurt",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 40.5789434,
+        "lng": 43.0653997,
+        "distanceMeters": 778,
+        "externalId": "osm/way/640215939"
+      },
+      {
+        "name": "Şok",
+        "category": "market",
+        "subtype": null,
+        "lat": 40.5880407,
+        "lng": 43.0878551,
+        "distanceMeters": 2757,
+        "externalId": "osm/node/3808155889"
+      },
+      {
+        "name": "BİM",
+        "category": "market",
+        "subtype": null,
+        "lat": 40.5868045,
+        "lng": 43.0883291,
+        "distanceMeters": 2760,
+        "externalId": "osm/node/3808155884"
+      },
+      {
+        "name": "Kütüphane",
+        "category": "library",
+        "subtype": null,
+        "lat": 40.5798968,
+        "lng": 43.0665401,
+        "distanceMeters": 850,
+        "externalId": "osm/way/640215937"
+      }
+    ]
+  },
+  {
+    "id": 370189,
+    "universityName": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+    "campusName": "Erzincan Binali Yıldırım Üniversitesi Yalnızbağ Kampüsü",
+    "lat": 39.7467,
+    "lng": 39.4913,
+    "radiusMeters": 3000,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "fallback/370189",
+    "locationDisplayName": "Erzincan Binali Yıldırım Üniversitesi Yalnızbağ Kampüsü",
+    "locationSource": "fallback",
+    "places": [
+      {
+        "name": "Erzincan Döner",
+        "category": "food",
+        "subtype": null,
+        "lat": 39.7487569,
+        "lng": 39.4910448,
+        "distanceMeters": 230,
+        "externalId": "osm/node/6599172086"
+      },
+      {
+        "name": "Döner Kebap",
+        "category": "food",
+        "subtype": null,
+        "lat": 39.7440252,
+        "lng": 39.498443,
+        "distanceMeters": 679,
+        "externalId": "osm/node/13089439891"
+      },
+      {
+        "name": "Baston Cafe Bay & Bayan Oyun Salonu",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 39.7584921,
+        "lng": 39.4995371,
+        "distanceMeters": 1488,
+        "externalId": "osm/node/12453370965"
+      },
+      {
+        "name": "Erzincan Anadolu İmam Hatip Lisesi Pansiyonu",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 39.7441065,
+        "lng": 39.5058535,
+        "distanceMeters": 1277,
+        "externalId": "osm/way/1305328349"
+      },
+      {
+        "name": "BİM",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.7484375,
+        "lng": 39.4891165,
+        "distanceMeters": 269,
+        "externalId": "osm/node/5228343978"
+      },
+      {
+        "name": "A101",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.7450614,
+        "lng": 39.4949693,
+        "distanceMeters": 363,
+        "externalId": "osm/node/4711620543"
+      },
+      {
+        "name": "Şok",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.7502399,
+        "lng": 39.4881007,
+        "distanceMeters": 479,
+        "externalId": "osm/node/5228283013"
+      },
+      {
+        "name": "Akar AVM",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.7469781,
+        "lng": 39.5000099,
+        "distanceMeters": 745,
+        "externalId": "osm/node/4711202321"
+      },
+      {
+        "name": "Migros",
+        "category": "market",
+        "subtype": null,
+        "lat": 39.7472144,
+        "lng": 39.4726404,
+        "distanceMeters": 1596,
+        "externalId": "osm/node/5106772121"
+      },
+      {
+        "name": "Erzincan",
+        "category": "transport",
+        "subtype": "rail_station",
+        "lat": 39.7336676,
+        "lng": 39.4931041,
+        "distanceMeters": 1457,
+        "externalId": "osm/node/1019524264"
+      }
+    ]
+  },
+  {
+    "id": 105196,
+    "universityName": "BİNGÖL ÜNİVERSİTESİ",
+    "campusName": "Bingöl Üniversitesi Merkez Kampüs",
+    "lat": 38.9008748,
+    "lng": 40.4854983,
+    "radiusMeters": 2800,
+    "source": "OpenStreetMap / Nominatim / Overpass",
+    "sourceDate": "2026-05-16",
+    "confidence": "PILOT",
+    "locationExternalId": "nominatim/way/370957632",
+    "locationDisplayName": "Bingöl Üniversitesi, 6. Sokak, Recep Tayyip Erdoğan Mahallesi, Çayboyu, Bingöl Merkez, Bingöl, Doğu Anadolu Bölgesi, 12000, Türkiye",
+    "locationSource": "nominatim",
+    "places": [
+      {
+        "name": "Merkezi Kafeterya",
+        "category": "food",
+        "subtype": null,
+        "lat": 38.8979378,
+        "lng": 40.4887468,
+        "distanceMeters": 431,
+        "externalId": "osm/way/1283847983"
+      },
+      {
+        "name": "Başka Kafe",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.9039898,
+        "lng": 40.4879008,
+        "distanceMeters": 404,
+        "externalId": "osm/node/4256158848"
+      },
+      {
+        "name": "Künefeci Sıdkı Usta",
+        "category": "cafe",
+        "subtype": null,
+        "lat": 38.8968932,
+        "lng": 40.5156995,
+        "distanceMeters": 2651,
+        "externalId": "osm/node/10141306375"
+      },
+      {
+        "name": "Vilayetler Birliği Kız Öğrenci Yurdu",
+        "category": "dormitory",
+        "subtype": null,
+        "lat": 38.8821915,
+        "lng": 40.5060463,
+        "distanceMeters": 2735,
+        "externalId": "osm/way/427483266"
+      },
+      {
+        "name": "Şadinoğulları Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.9040897,
+        "lng": 40.4876999,
+        "distanceMeters": 405,
+        "externalId": "osm/node/4256158849"
+      },
+      {
+        "name": "Aktem Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.9009202,
+        "lng": 40.4946224,
+        "distanceMeters": 790,
+        "externalId": "osm/node/4616078390"
+      },
+      {
+        "name": "Medine Market",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.9031719,
+        "lng": 40.4943084,
+        "distanceMeters": 804,
+        "externalId": "osm/node/4233385851"
+      },
+      {
+        "name": "BİM",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.9035437,
+        "lng": 40.4987476,
+        "distanceMeters": 1184,
+        "externalId": "osm/node/3805568349"
+      },
+      {
+        "name": "A101",
+        "category": "market",
+        "subtype": null,
+        "lat": 38.9036371,
+        "lng": 40.5002438,
+        "distanceMeters": 1312,
+        "externalId": "osm/node/3805568963"
+      },
+      {
+        "name": "Kütüphane",
+        "category": "library",
+        "subtype": null,
+        "lat": 38.8984024,
+        "lng": 40.4857078,
+        "distanceMeters": 276,
+        "externalId": "osm/way/1145549042"
+      }
+    ]
+  }
+]

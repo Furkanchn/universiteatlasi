@@ -1,0 +1,171 @@
+// database/schema.prisma
+// Spring Boot + Flyway is the active backend path. This Prisma schema is kept
+// as a lisans-only data model reference.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Universite {
+  id                Int             @id @default(autoincrement())
+  tur               UniversiteTuru?
+  ad                String          @unique
+  sehir             String?
+  bolge             Bolge?
+  kurulumYili       Int?
+  websiteUrl        String?
+  logoUrl           String?
+  ogrenciSayisi     Int?
+  ogretimUyeSayisi  Int?
+  yurtKapasitesi    Int?
+  slug              String?         @unique
+  lisansProgramlari LisansProgram[]
+
+  @@index([sehir])
+  @@index([tur])
+}
+
+model LisansProgram {
+  id              Int                @id @default(autoincrement())
+  universiteId    Int
+  universite      Universite         @relation(fields: [universiteId], references: [id], onDelete: Cascade)
+  fakulte         String
+  programAdi      String
+  puanTuru        PuanTuru
+  ogretimTuru     OgretimTuru?
+  kontenjan       Int
+  bursOrani       Int                @default(0)
+  ucret           Decimal?
+  dil             String?
+  ogretimSuresiYil Int?
+  detailUrl       String?
+  programKodu     String?            @unique
+  yokatlasUniversiteId Int?
+  yokatlasIlKodu String?
+  yokatlasProgramGrupId String?
+  programGrupAdi String?
+  birimTuruId Int?
+  birimTuruAdi String?
+  ogrenimTuruId Int?
+  ogrenimTuruAdi String?
+  bursOraniId Int?
+  bursOraniAdi String?
+  yokatlasRaw Json?
+  yilVerileri     LisansYilVerisi[]
+  detayVerileri   YokatlasProgramDetayVerisi[]
+
+  @@index([puanTuru])
+  @@index([universiteId])
+  @@index([programAdi])
+}
+
+model LisansYilVerisi {
+  id          Int           @id @default(autoincrement())
+  programId   Int
+  program     LisansProgram @relation(fields: [programId], references: [id], onDelete: Cascade)
+  yil         Int
+  tabanPuan   Decimal?
+  tabanSira   Int?
+  tavanPuan   Decimal?
+  tavanSira   Int?
+  yerlesen    Int?
+  bosKalan    Int?
+  yilKontenjan Int?
+  kayitYaptiran Int?
+  ekYerlesen Int?
+  ekKayitYaptiran Int?
+
+  @@unique([programId, yil])
+  @@index([yil])
+  @@index([tabanSira])
+}
+
+model YokatlasProgramDetayVerisi {
+  id          Int           @id @default(autoincrement())
+  programId   Int
+  program     LisansProgram @relation(fields: [programId], references: [id], onDelete: Cascade)
+  yil         Int?
+  kategori    String
+  altKategori String?
+  veri        Json
+  kaynakUrl   String?
+  olusturmaTarihi DateTime @default(now())
+  guncellemeTarihi DateTime?
+
+  @@unique([programId, yil, kategori, altKategori])
+  @@index([programId])
+  @@index([kategori])
+  @@index([yil])
+}
+
+model Kullanici {
+  id              String          @id @default(cuid())
+  email           String          @unique
+  sifreHash       String
+  ad              String?
+  tercihListeleri TercihListesi[]
+  createdAt       DateTime        @default(now())
+}
+
+model TercihListesi {
+  id             String         @id @default(cuid())
+  kullaniciId    String
+  kullanici      Kullanici      @relation(fields: [kullaniciId], references: [id], onDelete: Cascade)
+  ad             String         @default("Tercih Listem")
+  ogrenimDuzeyi  OgrenimDuzeyi  @default(LISANS)
+  girilenPuan    Decimal?
+  girilenSira    Int?
+  tercihler      TercihOgesi[]
+  createdAt      DateTime       @default(now())
+  updatedAt      DateTime       @updatedAt
+}
+
+model TercihOgesi {
+  id              String        @id @default(cuid())
+  listeId         String
+  liste           TercihListesi @relation(fields: [listeId], references: [id], onDelete: Cascade)
+  sira            Int
+  lisansProgramId Int?
+  notlar          String?
+
+  @@index([listeId])
+}
+
+enum UniversiteTuru {
+  DEVLET
+  VAKIF
+  VAKIF_UCRETLI
+}
+
+enum Bolge {
+  MARMARA
+  EGE
+  AKDENIZ
+  IC_ANADOLU
+  KARADENIZ
+  DOGU_ANADOLU
+  GUNEYDOGU_ANADOLU
+}
+
+enum PuanTuru {
+  SAY
+  EA
+  SOZ
+  DIL
+  TYT
+}
+
+enum OgretimTuru {
+  ORGUNLU
+  IKINDI
+  UZAKTAN
+}
+
+enum OgrenimDuzeyi {
+  LISANS
+}

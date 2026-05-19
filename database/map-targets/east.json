@@ -1,0 +1,84 @@
+[
+  {
+    "id": 103545,
+    "dbName": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+    "campusName": "Atatürk Üniversitesi Ana Kampüs",
+    "nominatimQuery": "Atatürk Üniversitesi, Erzurum, Turkey",
+    "fallback": { "lat": 39.9043, "lng": 41.2376 },
+    "radiusMeters": 3000
+  },
+  {
+    "id": 110987,
+    "dbName": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+    "campusName": "Fırat Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "Fırat Üniversitesi, Elazığ, Turkey",
+    "fallback": { "lat": 38.6743, "lng": 39.1967 },
+    "radiusMeters": 2600
+  },
+  {
+    "id": 114436,
+    "dbName": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+    "campusName": "İnönü Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "İnönü Üniversitesi, Malatya, Turkey",
+    "fallback": { "lat": 38.3306, "lng": 38.4366 },
+    "radiusMeters": 3000
+  },
+  {
+    "id": 112080,
+    "dbName": "GAZİANTEP ÜNİVERSİTESİ",
+    "campusName": "Gaziantep Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "Gaziantep Üniversitesi, Gaziantep, Turkey",
+    "fallback": { "lat": 37.0343, "lng": 37.3179 },
+    "radiusMeters": 2600
+  },
+  {
+    "id": 337414,
+    "dbName": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+    "campusName": "Van Yüzüncü Yıl Üniversitesi Zeve Kampüsü",
+    "nominatimQuery": "Yüzüncü Yıl Üniversitesi, Van, Turkey",
+    "fallback": { "lat": 38.563171, "lng": 43.283852 },
+    "useFallback": true,
+    "radiusMeters": 5000
+  },
+  {
+    "id": 107723,
+    "dbName": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+    "campusName": "Dicle Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "Dicle Üniversitesi, Diyarbakır, Turkey",
+    "fallback": { "lat": 37.9252, "lng": 40.2769 },
+    "radiusMeters": 3000
+  },
+  {
+    "id": 113746,
+    "dbName": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+    "campusName": "Harran Üniversitesi Osmanbey Kampüsü",
+    "nominatimQuery": "Harran Üniversitesi Osmanbey Kampüsü, Şanlıurfa, Turkey",
+    "fallback": { "lat": 37.17208, "lng": 39.00178 },
+    "useFallback": true,
+    "radiusMeters": 5000
+  },
+  {
+    "id": 116345,
+    "dbName": "KAFKAS ÜNİVERSİTESİ (KARS)",
+    "campusName": "Kafkas Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "Kafkas Üniversitesi, Kars, Turkey",
+    "fallback": { "lat": 40.5869, "lng": 43.0875 },
+    "radiusMeters": 2800
+  },
+  {
+    "id": 370189,
+    "dbName": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+    "campusName": "Erzincan Binali Yıldırım Üniversitesi Yalnızbağ Kampüsü",
+    "nominatimQuery": "Erzincan Binali Yıldırım Üniversitesi Yalnızbağ Kampüsü, Erzincan, Turkey",
+    "fallback": { "lat": 39.7467, "lng": 39.4913 },
+    "radiusMeters": 3000
+  },
+  {
+    "id": 105196,
+    "dbName": "BİNGÖL ÜNİVERSİTESİ",
+    "campusName": "Bingöl Üniversitesi Merkez Kampüs",
+    "nominatimQuery": "Bingöl Üniversitesi, Bingöl, Turkey",
+    "fallback": { "lat": 38.8847, "lng": 40.4982 },
+    "radiusMeters": 2800
+  }
+]

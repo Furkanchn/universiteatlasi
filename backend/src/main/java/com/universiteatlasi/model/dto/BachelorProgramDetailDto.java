@@ -1,0 +1,70 @@
+package com.universiteatlasi.model.dto;
+
+import com.universiteatlasi.model.enums.TeachingType;
+import com.universiteatlasi.model.enums.ScoreType;
+
+import java.math.BigDecimal;
+import java.util.List;
+import java.util.Map;
+
+/** Full detail DTO for a bachelor program */
+public record BachelorProgramDetailDto(
+    Long id,
+    String programName,
+    String faculty,
+    ScoreType scoreType,
+    TeachingType teachingType,
+    Integer quota,
+    Integer scholarshipRate,
+    BigDecimal tuitionFee,
+    String programCode,
+    String language,
+    Short educationDurationYears,
+    String detailUrl,
+    Long yokatlasUniversityId,
+    String yokatlasCityCode,
+    String yokatlasProgramGroupId,
+    String programGroupName,
+    Short unitTypeId,
+    String unitTypeName,
+    Short educationTypeId,
+    String educationTypeName,
+    Short scholarshipRateId,
+    String scholarshipRateName,
+    Long osymGuideId,
+    String previousGuideCode,
+    Long previousUnitId,
+    Long fymkId,
+    String fymkCityName,
+    String fymkDistrictName,
+    String districtName,
+    String accreditation,
+    String accreditationDescription,
+    String universityAccreditation,
+    String conditions,
+    Integer minimumSuccessRank,
+    String minimumSuccessRankCondition,
+    Integer quotaY34,
+    Integer quotaDep,
+    Integer quotaMeb,
+    Integer quotaObs,
+    Integer quotaSgy,
+    Integer placementY34,
+    Integer placementDep,
+    Integer placementObs,
+    Integer placementSgy,
+    String tyc,
+    String appliedEducationModel,
+    Integer femaleCount,
+    Integer maleCount,
+    Integer newGraduateCount,
+    Integer oldGraduateCount,
+    List<Map<String, Object>> netAverages,
+    Integer professorCount,
+    Integer associateProfessorCount,
+    Integer doctorFacultyMemberCount,
+    Integer lecturerCount,
+    Integer researchAssistantCount,
+    UniversitySummaryDto university,
+    List<YearDataDto> yearlyData
+) {}

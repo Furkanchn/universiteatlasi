@@ -1,0 +1,90 @@
+spring:
+  application:
+    name: universiteatlasi-backend
+
+  # ── Veritabanı ────────────────────────────────────────
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/universiteatlasi}
+    username: ${DB_USER:postgres}
+    password: ${DB_PASSWORD:postgres}
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 2
+      connection-timeout: 30000
+
+  # ── JPA / Hibernate ───────────────────────────────────
+  jpa:
+    hibernate:
+      ddl-auto: validate          # Migration Flyway'e bırakıyoruz
+    show-sql: false
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+        default_batch_fetch_size: 20  # N+1 sorgu optimizasyonu
+
+  # ── Flyway (DB Migration) ─────────────────────────────
+  flyway:
+    enabled: true
+    locations: classpath:db/migration
+    baseline-on-migrate: true
+
+  # ── Redis Cache ───────────────────────────────────────
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+      password: ${REDIS_PASSWORD:}
+      timeout: 2000ms
+
+  # ── Cache ─────────────────────────────────────────────
+  cache:
+    type: simple
+    redis:
+      time-to-live: 300000    # 5 dakika (ms)
+      cache-null-values: false
+
+app:
+  varsayilan-yil: 2025
+  jwt:
+    secret: ${JWT_SECRET:bu-gizli-anahtar-production-da-degistir-min32kar}
+    expiration-ms: 86400000   # 24 saat
+  cors:
+    allowed-origins: ${CORS_ORIGINS:http://localhost:5173}
+  chat:
+    ollama:
+      enabled: ${OLLAMA_ENABLED:true}
+      base-url: ${OLLAMA_BASE_URL:http://localhost:11434}
+      model: ${OLLAMA_MODEL:qwen2.5:7b}
+      embedding-model: ${OLLAMA_EMBEDDING_MODEL:nomic-embed-text}
+
+# ── Sunucu ────────────────────────────────────────────
+server:
+  port: ${PORT:8080}
+  compression:
+    enabled: true
+    mime-types: application/json
+  error:
+    include-message: always    # Geliştirme ortamı için
+
+# ── Actuator ─────────────────────────────────────────
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: when-authorized
+
+---
+# ── Production profili ────────────────────────────────
+spring:
+  config:
+    activate:
+      on-profile: production
+  jpa:
+    show-sql: false
+server:
+  error:
+    include-message: never
