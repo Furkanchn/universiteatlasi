@@ -33,7 +33,7 @@ export function Layout() {
               <img
                 src={kampusDataLogo}
                 alt="Kampus Data"
-                className="h-12 w-24 rounded-2xl bg-white object-contain shadow-md ring-1 ring-slate-200"
+                className="h-14 w-28 rounded-2xl bg-white object-contain shadow-md ring-1 ring-slate-200"
               />
               <span>
                 <span className="block text-xl font-black text-slate-950">Kampus Data</span>
