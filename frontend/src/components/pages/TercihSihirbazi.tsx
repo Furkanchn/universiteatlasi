@@ -58,7 +58,7 @@ export default function TercihSihirbazi() {
     },
   });
 
-  const { data, isLoading, isError } = useQuery({
+  const { data, isLoading, isFetching, isError, refetch } = useQuery({
     queryKey: ["wizard", scoreType, rank, city, programSearch],
     queryFn: () =>
       bachelorApi.wizard({
@@ -70,6 +70,7 @@ export default function TercihSihirbazi() {
       }),
     enabled: searched && Number(rank) > 0,
   });
+  const loading = isLoading || isFetching;
 
   const groupedResults = useMemo(
     () =>
@@ -81,7 +82,12 @@ export default function TercihSihirbazi() {
   );
 
   const search = () => {
-    if (Number(rank) > 0) setSearched(true);
+    if (Number(rank) <= 0) return;
+    if (searched) {
+      void refetch();
+      return;
+    }
+    setSearched(true);
   };
 
   return (
@@ -172,7 +178,7 @@ export default function TercihSihirbazi() {
         </div>
       </div>
 
-      {isLoading && (
+      {loading && (
         <div className="space-y-3">
           {Array.from({ length: 7 }).map((_, index) => (
             <div key={index} className="h-20 animate-pulse rounded-lg bg-slate-200/80" />
@@ -180,14 +186,14 @@ export default function TercihSihirbazi() {
         </div>
       )}
 
-      {isError && (
+      {isError && !loading && (
         <EmptyState
           title="Sonuçlar yüklenemedi"
           description="Backend yanıtı alınamadı. /api/bachelor/wizard endpointini kontrol edin."
         />
       )}
 
-      {data && !isLoading && (
+      {data && !loading && (
         <>
           <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
             <p className="text-sm font-semibold text-slate-600">
