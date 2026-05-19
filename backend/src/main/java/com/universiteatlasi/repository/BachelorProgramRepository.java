@@ -9,9 +9,11 @@ import jakarta.persistence.criteria.Join;
 import jakarta.persistence.criteria.JoinType;
 import jakarta.persistence.criteria.Predicate;
 import org.springframework.data.jpa.domain.Specification;
+import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
 import org.springframework.data.jpa.repository.Query;
+import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
 import java.math.BigDecimal;
@@ -39,22 +41,23 @@ public interface BachelorProgramRepository
     @Query("""
         SELECT p FROM BachelorProgram p
         JOIN FETCH p.university u
-        JOIN FETCH p.yearlyData yd
+        JOIN p.yearlyData yd
         WHERE p.scoreType = :scoreType
           AND yd.year = :year
           AND yd.baseRank >= :userRank
         ORDER BY yd.baseRank ASC
         """)
     List<BachelorProgram> findWizardMatches(
-        @org.springframework.data.repository.query.Param("scoreType") ScoreType scoreType,
-        int year,
-        int userRank
+        @Param("scoreType") ScoreType scoreType,
+        @Param("year") int year,
+        @Param("userRank") int userRank,
+        Pageable pageable
     );
 
     @Query("""
         SELECT p FROM BachelorProgram p
         JOIN FETCH p.university u
-        JOIN FETCH p.yearlyData yd
+        JOIN p.yearlyData yd
         WHERE p.scoreType = :scoreType
           AND yd.year = :year
           AND yd.baseRank >= :userRank
@@ -62,16 +65,17 @@ public interface BachelorProgramRepository
         ORDER BY yd.baseRank ASC
         """)
     List<BachelorProgram> findWizardMatchesByCity(
-        @org.springframework.data.repository.query.Param("scoreType") ScoreType scoreType,
-        int year,
-        int userRank,
-        String city
+        @Param("scoreType") ScoreType scoreType,
+        @Param("year") int year,
+        @Param("userRank") int userRank,
+        @Param("city") String city,
+        Pageable pageable
     );
 
     @Query("""
         SELECT p FROM BachelorProgram p
         JOIN FETCH p.university u
-        JOIN FETCH p.yearlyData yd
+        JOIN p.yearlyData yd
         WHERE p.scoreType = :scoreType
           AND yd.year = :year
           AND yd.baseRank >= :userRank
@@ -80,16 +84,17 @@ public interface BachelorProgramRepository
         ORDER BY yd.baseRank ASC
         """)
     List<BachelorProgram> findWizardMatchesBySearch(
-        @org.springframework.data.repository.query.Param("scoreType") ScoreType scoreType,
-        int year,
-        int userRank,
-        String search
+        @Param("scoreType") ScoreType scoreType,
+        @Param("year") int year,
+        @Param("userRank") int userRank,
+        @Param("search") String search,
+        Pageable pageable
     );
 
     @Query("""
         SELECT p FROM BachelorProgram p
         JOIN FETCH p.university u
-        JOIN FETCH p.yearlyData yd
+        JOIN p.yearlyData yd
         WHERE p.scoreType = :scoreType
           AND yd.year = :year
           AND yd.baseRank >= :userRank
@@ -99,11 +104,12 @@ public interface BachelorProgramRepository
         ORDER BY yd.baseRank ASC
         """)
     List<BachelorProgram> findWizardMatchesByCityAndSearch(
-        @org.springframework.data.repository.query.Param("scoreType") ScoreType scoreType,
-        int year,
-        int userRank,
-        String city,
-        String search
+        @Param("scoreType") ScoreType scoreType,
+        @Param("year") int year,
+        @Param("userRank") int userRank,
+        @Param("city") String city,
+        @Param("search") String search,
+        Pageable pageable
     );
 
     @Query("""

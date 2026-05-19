@@ -151,12 +151,13 @@ public class BachelorService {
 
     private List<BachelorProgram> findWizardMatches(
             ScoreType scoreType, int rank, int year, String city, String search) {
+        Pageable limit = PageRequest.of(0, 200);
         if (city != null && search != null) {
-            return repo.findWizardMatchesByCityAndSearch(scoreType, year, rank, city, search);
+            return repo.findWizardMatchesByCityAndSearch(scoreType, year, rank, city, search, limit);
         }
-        if (city != null) return repo.findWizardMatchesByCity(scoreType, year, rank, city);
-        if (search != null) return repo.findWizardMatchesBySearch(scoreType, year, rank, search);
-        return repo.findWizardMatches(scoreType, year, rank);
+        if (city != null) return repo.findWizardMatchesByCity(scoreType, year, rank, city, limit);
+        if (search != null) return repo.findWizardMatchesBySearch(scoreType, year, rank, search, limit);
+        return repo.findWizardMatches(scoreType, year, rank, limit);
     }
 
     private String statusReason(String status) {
