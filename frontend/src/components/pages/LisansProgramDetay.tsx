@@ -215,7 +215,7 @@ export default function LisansProgramDetay() {
         </div>
       </section>
 
-      <div className="mt-6 grid grid-cols-[minmax(0,1fr)_24rem] gap-6">
+      <div className="mt-6 grid items-start gap-6 lg:grid-cols-[minmax(0,1fr)_24rem]">
         <main className="space-y-6">
           <section className="panel p-5">
             <div className="mb-4">
@@ -234,6 +234,12 @@ export default function LisansProgramDetay() {
               </div>
             )}
           </section>
+
+          {mapData && (
+            <section>
+              <UniversityMapPanel data={mapData} />
+            </section>
+          )}
         </main>
 
         <aside className="space-y-6">
@@ -386,12 +392,6 @@ export default function LisansProgramDetay() {
           )}
         </aside>
       </div>
-
-      {mapData && (
-        <section className="mt-6">
-          <UniversityMapPanel data={mapData} />
-        </section>
-      )}
     </div>
   );
 }
