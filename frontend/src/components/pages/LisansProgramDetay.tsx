@@ -7,6 +7,7 @@ import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { preferenceApi } from "../../services/api";
 import { getApiErrorMessage } from "../../lib/apiError";
 import { useAuthStore, usePreferenceStore } from "../../store/filter.store";
+import { NumbeoCityCostPanel } from "../ui/NumbeoCityCostPanel";
 import { UniversityMapPanel } from "../ui/UniversityMapPanel";
 import {
   formatNumber,
@@ -57,6 +58,13 @@ export default function LisansProgramDetay() {
   const { data: universityMapData } = useQuery({
     queryKey: ["university-map", program?.university.id],
     queryFn: () => universityApi.map(program!.university.id),
+    enabled: Number.isFinite(program?.university.id),
+    retry: false,
+  });
+
+  const { data: universityComparison } = useQuery({
+    queryKey: ["program-university-costs", program?.university.id],
+    queryFn: () => universityApi.compare([program!.university.id]),
     enabled: Number.isFinite(program?.university.id),
     retry: false,
   });
@@ -169,6 +177,10 @@ export default function LisansProgramDetay() {
     { label: "Ek kayıt", value: formatOptionalNumber(latest?.additionalRegistered) },
   ].filter(hasMetricValue) as MetricField[]);
   const mapData = normalizeMapData(universityMapData);
+  const cityCosts =
+    universityComparison?.items.find((item) => item.id === program.university.id)?.cityCosts ??
+    universityComparison?.items[0]?.cityCosts ??
+    null;
 
   return (
     <div className="page-shell">
@@ -240,6 +252,8 @@ export default function LisansProgramDetay() {
               <UniversityMapPanel data={mapData} />
             </section>
           )}
+
+          {cityCosts && <NumbeoCityCostPanel data={cityCosts} />}
         </main>
 
         <aside className="space-y-6">
