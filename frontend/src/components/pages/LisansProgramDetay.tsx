@@ -7,7 +7,7 @@ import { useMutation, useQueryClient } from "@tanstack/react-query";
 import { preferenceApi } from "../../services/api";
 import { getApiErrorMessage } from "../../lib/apiError";
 import { useAuthStore, usePreferenceStore } from "../../store/filter.store";
-import { NumbeoCityCostPanel } from "../ui/NumbeoCityCostPanel";
+import { UniversityInsightTabs } from "../ui/UniversityInsightTabs";
 import { UniversityMapPanel } from "../ui/UniversityMapPanel";
 import {
   formatNumber,
@@ -63,7 +63,7 @@ export default function LisansProgramDetay() {
   });
 
   const { data: universityComparison } = useQuery({
-    queryKey: ["program-university-costs", program?.university.id],
+    queryKey: ["program-university-insights", program?.university.id],
     queryFn: () => universityApi.compare([program!.university.id]),
     enabled: Number.isFinite(program?.university.id),
     retry: false,
@@ -177,9 +177,9 @@ export default function LisansProgramDetay() {
     { label: "Ek kayıt", value: formatOptionalNumber(latest?.additionalRegistered) },
   ].filter(hasMetricValue) as MetricField[]);
   const mapData = normalizeMapData(universityMapData);
-  const cityCosts =
-    universityComparison?.items.find((item) => item.id === program.university.id)?.cityCosts ??
-    universityComparison?.items[0]?.cityCosts ??
+  const universityInsight =
+    universityComparison?.items.find((item) => item.id === program.university.id) ??
+    universityComparison?.items[0] ??
     null;
 
   return (
@@ -253,7 +253,7 @@ export default function LisansProgramDetay() {
             </section>
           )}
 
-          {cityCosts && <NumbeoCityCostPanel data={cityCosts} />}
+          {universityInsight && <UniversityInsightTabs item={universityInsight} />}
         </main>
 
         <aside className="space-y-6">
